@@ -5,6 +5,7 @@ I am a software developer since 2012.
 I started as a backend in .NET following my path with Node.js to then enter the Javascript ecosystem.
 I've done things with Angular 1, React and vanilla js with html.
 Since 2017 I'm a React developer, and I've always been interested in Vue.js and the different frameworks and libraries that are coming out in the frontend world.
+It's the first time I make an app in Vue.js, the truth is that it was a fun experience since I learned something more about the frontend world. Sorry if I haven't followed some good practices of the Vue.js world.
 
 ## Project setup
 
