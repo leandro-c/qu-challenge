@@ -1,4 +1,4 @@
-# vue-star-wars-planets
+# Qu-Challenge
 
 My name is Leandro Casarin.
 I am a software developer since 2012.
