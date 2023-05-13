@@ -7,7 +7,7 @@ describe("Planets.vue", () => {
 
     await wrapper.vm.$nextTick();
 
-    const planetItems = wrapper.findAll("li");
+    const planetItems = wrapper.findAll("div");
     expect(planetItems).toHaveLength(10);
     expect(planetItems[0].text()).toContain("Tatooine");
   });
