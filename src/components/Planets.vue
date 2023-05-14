@@ -4,7 +4,7 @@
     <ul>
       <div class="grid-container">
         <div v-for="planet in planets" :key="planet.name">
-          <div class="planet-card">
+          <div id="planet-card-id" class="planet-card">
             <h3>{{ planet.name }}</h3>
             <div class="row-text">
               <p class="title">Population:</p>
